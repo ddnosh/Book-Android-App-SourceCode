@@ -1,0 +1,10 @@
+  -libraryjars class_path 应用的依赖包，如android-support-v4
+-keep [,modifier,...] class_specification 不混淆某些类
+-keepclassmembers [,modifier,...] class_specification 不混淆类的成员
+-keepclasseswithmembers [,modifier,...] class_specification 不混淆类及其成员
+-keepnames class_specification 不混淆类及其成员名
+-keepclassmembernames class_specification 不混淆类的成员名
+-keepclasseswithmembernames class_specification 不混淆类及其成员名
+-assumenosideeffects class_specification 假设调用不产生任何影响，在proguard代码优化时会将该调用remove掉。如system.out.println和Log.v等等
+-dontwarn [class_filter] 不提示warnning
+-include [.pro] 引入其它porguard文件

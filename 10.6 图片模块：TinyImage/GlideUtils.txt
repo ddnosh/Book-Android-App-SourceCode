@@ -1,0 +1,1 @@
+https://github.com/ddnosh/AndroidQuick/blob/13dc26362e07ff31a526774534fa8ac2b96736e1/sample/src/main/java/com/androidwind/androidquick/demo/tool/GlideUtils.java

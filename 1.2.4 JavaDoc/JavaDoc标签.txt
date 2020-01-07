@@ -1,0 +1,12 @@
+@author	作者标识
+@version	版本号
+@return	对函数返回值的描述
+@deprecated	标识过期API（为了保证兼容性，仍可用，但不推荐用）
+@throws	构造函数或方法会抛出的异常
+@exception	同@throws
+@see	引用，查看相关的内容，如类，方法，变量等，必须顶头写
+{@link 包.类#成员}	引用，同@see，但可写在任意位置
+{@value}	对常量注释，如果其值包含在文档中，通过改标签引用常量的值
+{@code}}	{@code text}将文本标记为code，会被解析成 text } ,在Javadoc成只要涉及到类名或者方法名，都需要使用@code进行标记
+@param	说明方法的参数
+@inheritDoc	用于继承父类中的Javadoc，父类的文档注释，被继承到了子类

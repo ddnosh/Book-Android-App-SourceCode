@@ -1,2 +1,2 @@
-https://github.com/ddnosh/QuickHub
-�л���book_source_code_feature
+https://github.com/ddnosh/QuickHub-Java-MVVM
+然后切换到book_source_code_feature分支。

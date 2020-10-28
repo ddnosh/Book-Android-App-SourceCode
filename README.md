@@ -8,3 +8,9 @@
 <p align="center">
   <img src="https://img-blog.csdnimg.cn/20200909075440310.jpg" alt="公众号：国民程序员"/>
 </p>
+
+### &#8627; Stargazers
+[![Stargazers repo roster for @ddnosh/Book-Android-App-SourceCode](https://reporoster.com/stars/ddnosh/Book-Android-App-SourceCode)](https://github.com/ddnosh/Book-Android-App-SourceCode/stargazers)
+
+### &#8627; Forkers
+[![Forkers repo roster for @ddnosh/Book-Android-App-SourceCode](https://reporoster.com/forks/ddnosh/Book-Android-App-SourceCode)](https://github.com/ddnosh/Book-Android-App-SourceCode/network/members)
